@@ -59,13 +59,3 @@ ls /app/output/
 <img width="1800" height="900" alt="image" src="https://github.com/user-attachments/assets/062f7777-13ff-4b26-8139-632bfcd5814e" />
 <img width="1800" height="900" alt="image" src="https://github.com/user-attachments/assets/7dc81283-b4d6-4217-abb1-d64ce641f248" />
 
-
-
-
-
-
-- Docker
-
-## 📁 Data Source
-
-[Online Retail Data] Set](https://archive.ics.uci.edu/ml/datasets/Online+Retail)
