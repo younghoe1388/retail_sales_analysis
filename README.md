@@ -16,6 +16,8 @@ This is an e-commerce data analysis project based on PySpark, including data cle
 
 - Customer Value Segmentation
 
+- Data visualization
+
 ## 🚀 Quick Start
 
 ```bash
@@ -45,6 +47,14 @@ ls /app/output/
 - Pandas
 
 - Matplotlib / Seaborn
+
+## Visualization result (Matplotlib & Seaborn)
+<img width="1800" height="900" alt="image" src="https://github.com/user-attachments/assets/5d89305d-15cf-4d68-95e6-673a9a58fdee" />
+<img width="1800" height="900" alt="image" src="https://github.com/user-attachments/assets/8b6c3bba-3b8e-4df4-b315-62ba5efce5e8" />
+<img width="1800" height="900" alt="image" src="https://github.com/user-attachments/assets/b7436b67-5d8f-4ca3-a27e-e18900b5a8e7" />
+
+
+
 
 - Docker
 
