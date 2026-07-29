@@ -60,3 +60,6 @@ ls /app/output/
 <img width="1800" height="900" alt="image" src="https://github.com/user-attachments/assets/062f7777-13ff-4b26-8139-632bfcd5814e" />
 <img width="1800" height="900" alt="image" src="https://github.com/user-attachments/assets/7dc81283-b4d6-4217-abb1-d64ce641f248" />
 
+## Tableau dashboard 
+https://public.tableau.com/app/profile/young.sky/viz/1_17851593651950/1_1?publish=yes
+<img width="1473" height="1730" alt="image" src="https://github.com/user-attachments/assets/aa6282fb-216c-4e62-a256-28c8fbb3e2df" />
