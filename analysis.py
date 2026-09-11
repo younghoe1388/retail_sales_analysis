@@ -24,10 +24,11 @@ df = spark.createDataFrame(pdf)
 # Data cleaning
 # 2.1 缺失值处理
 from pyspark.sql.functions import sum as spark_sum
+# 返回一个df，内含类似[Row(age=3, name=0, city=2)]的东西
 missing_counts = df.select([spark_sum(isnull(col(c)).cast("int")).alias(c) for c in df.columns]).collect()[0]
 total_rows = df.count()
 for c in df.columns:
-    missing = getattr(missing_counts, c)
+    missing = getattr(missing_counts, c) # 对missiing counts的每个列取有几个null值
     if missing > 0:
         ratio = missing / total_rows * 100
         print(f"Missing {missing} data, ratio: {ratio:.2f}%")
