@@ -2,6 +2,10 @@
 
 This is an e-commerce data analysis project based on PySpark, including data cleaning, multidimensional analysis, and visualization, running in a Docker container.
 
+## 📊 Dataset Overview
+- **Data Source:** [Online Retail Dataset](https://archive.ics.uci.edu/ml/datasets/Online+Retail) (UCI Machine Learning Repository)
+- **Data Volume:** ~541,909 raw transactional records (520k+ rows) containing multi-national e-commerce sales, product information, and customer metrics.
+
 ## 📊 Analysis Content
 
 - Monthly Sales Trends
